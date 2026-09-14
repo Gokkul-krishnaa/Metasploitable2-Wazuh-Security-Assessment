@@ -1,0 +1,1 @@
+I opened the Command Execution section in DVWA and kept the security level at Low. I entered [127.0.0.1; whoami] in the input field. The application returned the result of the [whoami] command and showed [www-data]. This confirmed that an additional system command could be executed through the application. I saved a screenshot of the result as evidence.

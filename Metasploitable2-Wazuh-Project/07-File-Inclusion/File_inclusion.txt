@@ -1,0 +1,4 @@
+I tested File Inclusion in DVWA with the security level set to Low.
+   I used the payload ../../../../../etc/passwd to access a local file.
+   The application displayed entries from the /etc/passwd file.
+   This showed that the application could be used to access local files without proper validation.

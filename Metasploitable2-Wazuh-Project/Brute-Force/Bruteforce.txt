@@ -1,0 +1,1 @@
+I opened the DVWA Brute Force page and set the security level to Low. I tried multiple username and password combinations using a small list. After a few attempts, the correct login details worked and the application showed the successful login message. I saved a screenshot as evidence.

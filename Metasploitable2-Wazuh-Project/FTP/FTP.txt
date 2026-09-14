@@ -1,0 +1,1 @@
+I connected to the FTP service running on Metasploitable2 and tried multiple login attempts with a small password list. Some login attempts failed and one login was successful. The FTP log recorded the failed and successful login attempts. I saved the FTP output/log screenshot as evidence.

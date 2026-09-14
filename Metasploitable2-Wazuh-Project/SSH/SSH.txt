@@ -1,0 +1,1 @@
+ I connected to the SSH service running on Metasploitable2 and tested multiple login attempts using a small password list. The failed login attempts were recorded in the SSH authentication logs. I was also able to successfully connect to the SSH service using the correct login details. The SSH login activity was saved as evidence for further investigation in Wazuh.

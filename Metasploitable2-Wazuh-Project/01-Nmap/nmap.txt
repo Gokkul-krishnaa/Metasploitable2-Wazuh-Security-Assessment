@@ -1,0 +1,6 @@
+Nmap Reconnaissance
+I used Nmap to check the target system and find the open ports and running services.
+The scan was performed using the following command:
+nmap -Pn -sV -p 8080 localhost
+The scan showed port 8080 open with Apache HTTP server running.
+This helped me identify the web service before starting the security testing.

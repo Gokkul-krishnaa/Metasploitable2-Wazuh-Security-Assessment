@@ -1,0 +1,1 @@
+I opened the XSS section in DVWA and kept the security level at Low. I entered a simple script in the input field. The script was executed and an alert box appeared on the screen. This showed that the application was not properly filtering the input. I saved a screenshot of the successful result as evidence.
