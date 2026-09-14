@@ -46,7 +46,7 @@ The following tests were performed during the assessment:
 
 ## Evidence
 
-The `Attack-Evidence` folder contains the screenshots and text files collected during the testing.
+The `Metasploitable2-Wazuh-Project` folder contains the screenshots and text files collected during the testing.
 
 Each attack has its own folder so that the evidence can be easily checked.
 
