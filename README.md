@@ -23,9 +23,7 @@ The main objectives of this project were:
 - DVWA
 - Wazuh
 - Docker
-- VirtualBox
 - WSL Ubuntu
-- Nmap
 
 ## Attacks and Tests Performed
 
